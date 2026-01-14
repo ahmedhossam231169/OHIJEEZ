@@ -90,6 +90,7 @@
   
   .logo-mobile {
     display: block;
+    margin: auto;
   }
   .nav p{
   display: none;
@@ -198,6 +199,7 @@
     display: block;
   }
 }
+
 
 
 
