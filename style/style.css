@@ -91,6 +91,8 @@
   .logo-mobile {
     display: block;
     margin: auto;
+    position: relative;
+    left: 20px;
   }
   .nav p{
   display: none;
@@ -199,6 +201,7 @@
     display: block;
   }
 }
+
 
 
 
