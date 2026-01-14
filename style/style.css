@@ -92,7 +92,7 @@
     display: block;
     margin: auto;
     position: relative;
-    left: 20px;
+    left: 10px;
   }
   .nav p{
   display: none;
@@ -201,6 +201,7 @@
     display: block;
   }
 }
+
 
 
 
